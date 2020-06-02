@@ -1,4 +1,5 @@
-# hello-world
+# Hello World
+
 This is a repository for me to learn how Github works.
 
 I made my first new branch, hooray!
