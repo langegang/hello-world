@@ -7,5 +7,4 @@ Next I'm going to learn about commits or some such thing
 
 
 Love,
-
 Evan
